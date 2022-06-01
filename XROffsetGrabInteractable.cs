@@ -1,3 +1,7 @@
+// This script one of the scripts that is responsible for correct behavior of the gun's slider.
+// This script added to the slider, and almost the same as the XRGrabInteractable script given by Unity, 
+// the difference is that it keeps initial offset that you have between your hands and the interactable object.
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
