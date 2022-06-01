@@ -1,3 +1,6 @@
+// This script is one of the scripts that is responsible for correct functioning of the gun slider. 
+// This script sets gun's slider threshold point when it is slided.
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
