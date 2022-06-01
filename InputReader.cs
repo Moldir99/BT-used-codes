@@ -1,3 +1,5 @@
+// This script is additional script for hand controllers that reads input devices.
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
