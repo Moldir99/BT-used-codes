@@ -1,3 +1,5 @@
+// This script is responsible for right and left hands correct functioning of the character in VR.
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
