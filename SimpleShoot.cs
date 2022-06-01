@@ -1,3 +1,5 @@
+// This script is the main script responsible for correct functioning of hte gun and binds all the other additional scripts.
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
